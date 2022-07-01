@@ -1,7 +1,7 @@
 ---
 title: Mingyang Xu
 role: ""
-avatar_filename: 微信图片_20210129181525.jpg
+avatar_filename: https://s2.loli.net/2022/07/01/Dvm2quyEBNtW9Jf.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
