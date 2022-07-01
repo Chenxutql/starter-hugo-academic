@@ -12,5 +12,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 date: 2022-07-01T23:43:26.933Z
 ---
