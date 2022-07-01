@@ -16,19 +16,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Waseda University
+    url: https://www.waseda.jp/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master in Information, Production and Systems
+      institution: Waseda University, Japan
+      year: 2021
+    - course: Bachelor in Mechanical Engineering
+      institution: Beihang University, China
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
