@@ -29,8 +29,12 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Bionic Robotics
+      tag: Bionic Robotics
+    - name: Walking Assistive Robotics
+      tag: Walking Assistive Robotics      
+    - name: Aerial Robotics
+      tag: Aerial Robotics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
