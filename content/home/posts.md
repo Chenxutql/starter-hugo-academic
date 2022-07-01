@@ -3,7 +3,7 @@ widget: pages
 widget_id: RECENT-POSTS
 headless: true
 weight: 60
-title: Posts
+title: Hobbys
 subtitle: null
 content:
   filters:
