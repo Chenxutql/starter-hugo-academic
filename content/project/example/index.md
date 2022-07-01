@@ -8,7 +8,7 @@ external_link: ""
 url_slides: ""
 title: '"iMANTA" Bionic Aerial Robot'
 tags:
-  - Deep Learning
+  - BIonic Robotics
 links:
   - icon: twitter
     icon_pack: fab
