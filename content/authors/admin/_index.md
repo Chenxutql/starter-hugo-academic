@@ -22,7 +22,7 @@ education:
   courses:
     - course: Master in Information, Production and Systems
       institution: Waseda University, Japan
-      year: 2021
+      year: 2023
     - course: Bachelor in Mechanical Engineering
       institution: Beihang University, China
       year: 2019
