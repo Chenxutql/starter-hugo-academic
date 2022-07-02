@@ -2,7 +2,7 @@
 widget: pages
 widget_id: RECENT-POSTS
 headless: true
-weight: 70
+weight: 65
 title: Hobbys
 subtitle: null
 content:
