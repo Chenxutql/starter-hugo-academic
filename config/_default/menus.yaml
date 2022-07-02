@@ -19,18 +19,15 @@ main:
   - name: Posts
     url: '#projects'
     weight: 50
-  - name: Skills
-    url: '#skills'
-    weight: 60
   - name: Hobbys
     url: '#posts'
-    weight: 70
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 80
+    weight: 70
   - name: CV_EN
     url: ''
-    weight: 90
+    weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
