@@ -13,7 +13,10 @@ publication_types:
   - "0"
 authors:
   - admin
-  - Robert Ford
+  - Yunkai Qi
+  - Ning Liu
+  - Wanhe An
+
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -26,7 +29,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: '"iMANTA" Bionic Aerial Robot'
+title: '"iMANTA" Bionic Aerial Robot based on Flapping Wings'
 doi: ""
 featured: false
 tags:
