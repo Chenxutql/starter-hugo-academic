@@ -8,7 +8,7 @@ authors:
 author_notes:
   - Beihang University
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
