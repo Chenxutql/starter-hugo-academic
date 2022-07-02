@@ -28,7 +28,7 @@ item:
     date_start: '2021-01-25'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org
+    organization_url: http://www.tiaozhanbei.net/
     title: 1th prize, The 9th "Challenge Cup" Science and Technology Works Competition (Beijing)
     url: ''
   - certificate_url: https://www.edx.org
