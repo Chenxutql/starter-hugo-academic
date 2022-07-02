@@ -28,7 +28,7 @@ url_source: ""
 url_video: ""
 title: '"iMANTA" Bionic Aerial Robot'
 doi: ""
-featured: true
+featured: false
 tags:
   - Bionic Robotics
 projects:
