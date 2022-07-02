@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: 1th prize, The 9th "Challenge Cup" Science and Technology Works Competition (Beijing)
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
@@ -37,7 +37,7 @@ item:
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+    title: 3rd prize, The 10th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
@@ -45,7 +45,7 @@ item:
     description: ''
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    title: '1th prize, The 28th "Feng Ru Cup" Competition of Academic and Technological Works'
     url: ''
 
 design:
