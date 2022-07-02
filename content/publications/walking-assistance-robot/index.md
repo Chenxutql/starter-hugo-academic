@@ -8,7 +8,7 @@ author_notes:
   - Waseda University
 abstract: "11111111"
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
