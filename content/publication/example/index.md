@@ -30,7 +30,7 @@ title: '"iMANTA" Bionic Aerial Robot'
 doi: ""
 featured: true
 tags:
-  - BIonic Robotics
+  - Bionic Robotics
 projects:
   - example
 image:
