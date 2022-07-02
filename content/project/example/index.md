@@ -3,10 +3,11 @@ slides: example
 url_pdf: ""
 summary: Fly fishing!
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
-title: '"iMANTA" Bionic Aerial Robot'
+title: '"iMANTA" Bionic Aerial Robot shows on 2017 "Fengru" Technology Festival
+  of Beihang University'
 tags:
   - BIonic Robotics
 links:
