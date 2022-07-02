@@ -1,5 +1,5 @@
 ---
-title: Beihang University Student Robot Association
+title: Student Robot Association of Beihang University
 subtitle: ""
 date: 2022-07-02T08:13:01.934Z
 summary: Oct. 2015 - Jun. 2016, Member
@@ -14,4 +14,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Beihang University Student Robot Association
+Student Robot Association of Beihang University
