@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Projects
-    url: '#projects'
+    url: '#featured'
     weight: 20
   - name: Publications
     url: '#publications'
@@ -17,7 +17,7 @@ main:
     url: '#accomplishments'
     weight: 40
   - name: Posts
-    url: '#featured'
+    url: '#projects'
     weight: 50
   - name: Skills
     url: '#skills'
