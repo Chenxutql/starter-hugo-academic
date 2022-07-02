@@ -1,7 +1,8 @@
 ---
 title: Wind Symphony and Marching Band of Beihang University
-subtitle: Sep. 2015 - Jun. 2019   Saxophonist
+subtitle: ""
 date: 2022-07-02T08:01:02.325Z
+summary: Sep. 2015 - Jun. 2019  Saxophonist
 draft: false
 featured: false
 image:
