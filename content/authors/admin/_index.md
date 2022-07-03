@@ -20,10 +20,10 @@ organizations:
 education:
   courses:
     - course: Master in Information, Production and Systems
-      institution: Waseda University, Japan
+      institution: Waseda University 早稲田大学, Japan
       year: 2023
     - course: Bachelor in Mechanical Engineering
-      institution: Beihang University, China
+      institution: Beihang University 北京航空航天大学, China
       year: 2019
 email: ""
 superuser: true
