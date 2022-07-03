@@ -9,6 +9,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-### **Media coverages of my report (Chinese):**
+### **Media coverages of the report (Chinese):**
 
 <https://mp.weixin.qq.com/s/APqf6tePsMhRvxHFX-FElA>
