@@ -2,8 +2,7 @@
 title: Mingyang Xu
 role: ""
 avatar_filename: wechat-image.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests are robotics and mechatronics.
 interests:
   - Walking Assistive Robotics
   - Bionic Robotics
@@ -30,6 +29,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Mingyang Xu is currently a Master student at Waseda University. Before that, he received my Bachelor's Degree in Mechanical Engineering with Excellent Graduate Honor in 2019 from Beihang University (Beijing University of Aeronautics and Astronautics), China.
+Mingyang Xu is currently a Master student at Waseda University, Japan. Before that, I received his Bachelor's Degree in Mechanical Engineering with Excellent Graduate Honor in 2019 from Beihang University, Beijing, China.
+
+During my master studies, I work on walking assistive robot project under the supervision of Prof. and Dr. . Previously, I worked on **Terrain-adaptive Aerial Robot** project supervised by Prof. Tianmiao Wang in Intelligent Technology and Robotics Lab (iTR) and **"iMANTA" Bionic Aerial Robot** project supervised by Prof. Jianhong Liang and Prof. Zhongcai Pei during my bachelor study.
+
+For more info, please refer to the latest **[](https://yujie-he.github.io/files/Yujie_HE_Resume.pdf)CV** here.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
