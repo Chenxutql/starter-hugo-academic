@@ -1,5 +1,5 @@
 ---
-title: Terrain-adaptive Aerial Robot shows on "Fengru Technology Festival" of
+title: Terrain-adaptive Aerial Robot showed on "Fengru Technology Festival" of
   Beihang University
 date: 2022-07-01T23:16:18.363Z
 draft: false
