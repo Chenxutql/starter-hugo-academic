@@ -22,7 +22,7 @@ education:
     - course: Bachelor in Mechanical Engineering
       institution: Beihang University 北京航空航天大学, China
       year: 2019
-email: 766620978@126.com
+email: test@example.org
 superuser: true
 highlight_name: true
 ---
