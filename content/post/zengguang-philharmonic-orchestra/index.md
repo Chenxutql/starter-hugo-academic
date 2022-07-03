@@ -9,6 +9,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Zengguang Philharmonic Orchestra
+
+
+
+![](star-wars-concert-zengguang.jpeg)
+
 ### STAR WARS Cinema Concert
 
 **Site:** Art Center of National Library
@@ -44,8 +50,6 @@ Princess Leia's Theme
 The Forest Battle
 
 March of the Resistance
-
-
 
 ### **Media coverages of the events I attended:**
 
