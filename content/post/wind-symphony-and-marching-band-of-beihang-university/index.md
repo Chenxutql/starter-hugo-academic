@@ -39,8 +39,6 @@ I am convinced that becoming an excellent researcher also requires comprehensive
 
 *Virginia* / Jacob de Haan
 
-
-
 **Video of the concert:** <https://www.bilibili.com/video/BV19t41127B2?spm_id_from=333.337.search-card.all.click&vd_source=807777c273ea3dbcc07546649ca8e6aa>
 
 
@@ -57,7 +55,7 @@ I am convinced that becoming an excellent researcher also requires comprehensive
 
 *From Afar* / Luobin wang
 
-
+**Competition result:** Gold prize
 
 **Video of the concert:** <https://www.bilibili.com/video/BV1Mt411x7BU?spm_id_from=333.337.search-card.all.click&vd_source=807777c273ea3dbcc07546649ca8e6aa>
 
