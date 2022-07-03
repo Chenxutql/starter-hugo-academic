@@ -6,7 +6,11 @@ authors:
   - Mingyang Xu
 author_notes:
   - Waseda University
-abstract: ""
+abstract: To maintain a high level of motivation is a vital issue during
+  rehabilitation because rehabilitation involves much pain, depression, and
+  discomfort. To study the mental state of patients is necessary. A new
+  assistive approach using emotion evaluation combined with an assistive walking
+  device to maintain motivation during the rehabilitation is proposed.
 draft: false
 featured: true
 image:
