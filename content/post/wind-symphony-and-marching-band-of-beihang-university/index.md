@@ -17,17 +17,49 @@ I am convinced that becoming an excellent researcher also requires comprehensive
 
 
 
+**Dream Sound——The New Year's concert of Beihang University**
+
+**Band:** Wind Symphony of Beihang University
+
+**Conductor:** Bingbing Zhang
+
+**Program:**
+
+*Washington Post* / John Philip Sousa
+
+*Pine River* / Ed Huckby
+
+*As The Moon Whispers* / Benjamin Yeo
+
+*Sunrise at Angel's Gate* / Philip Sparke
+
+*Poet and Peasant* / Franz von Suppe
+
+*Adagio* / Tomaso Albinoni
+
+*Virginia* / Jacob de Haan
+
+
+
+**Video of the concert:** <https://www.bilibili.com/video/BV19t41127B2?spm_id_from=333.337.search-card.all.click&vd_source=807777c273ea3dbcc07546649ca8e6aa>
+
+
+
 **2018 Beijing College Students Music Festival**
 
 **Band:** Wind Symphony of Beihang University
 
 **Conductor:** Bingbing Zhang
 
-Traveler / David Maslanka
+**Program:**
 
-From Afar / Luobin wang
+*Traveler* / David Maslanka
 
-Video of the concert: <https://www.bilibili.com/video/BV1Mt411x7BU?spm_id_from=333.337.search-card.all.click&vd_source=807777c273ea3dbcc07546649ca8e6aa>
+*From Afar* / Luobin wang
+
+
+
+**Video of the concert:** <https://www.bilibili.com/video/BV1Mt411x7BU?spm_id_from=333.337.search-card.all.click&vd_source=807777c273ea3dbcc07546649ca8e6aa>
 
 
 
@@ -36,6 +68,8 @@ Video of the concert: <https://www.bilibili.com/video/BV1Mt411x7BU?spm_id_from=3
 Dream Sound——The New Year's concert was performed by the Wind Symphony of Beihang University in the Sunrise Concert Hall *(Chinese)*
 
 <https://news.buaa.edu.cn/info/1002/42019.htm>
+
+[https://mp.weixin.qq.com/s/_W_tjB9UVvo0wykMp9_G1g](https://mp.weixin.qq.com/s/_W_tjB9UVvo0wykMp9_G1g)
 
 Beihang art troupe wins four gold and one silver medals in 2018 Beijing College Students Music Festival *(English)*
 
