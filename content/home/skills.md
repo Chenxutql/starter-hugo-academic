@@ -18,7 +18,7 @@ feature:
     icon_pack: fas
     name: Photography
   - name: SolidWorks
-    icon: solidWorks
+    icon: solidworks
     icon_pack: custom
 widget_id: RECENT
 ---
