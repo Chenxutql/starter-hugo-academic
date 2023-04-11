@@ -9,7 +9,7 @@ interests:
   - Bioinspired Robotics
   - Mechatronics Desigh
 social:
-  - icon: youtube
+  - icon: envelope
     icon_pack: fas
     link: /#contact
 organizations:
