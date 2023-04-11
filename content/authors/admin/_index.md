@@ -12,11 +12,6 @@ social:
   - icon: youtube
     icon_pack: fas
     link: /#contact
-  - display:
-      header: false
-    icon_pack: fas
-    icon: envelope
-    link: https://www.youtube.com/@mingyangsrobotworld1253
 organizations:
   - name: Waseda University
     url: https://www.waseda.jp/
