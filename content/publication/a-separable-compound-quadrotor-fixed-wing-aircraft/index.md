@@ -7,8 +7,8 @@ authors:
   - Jiaxuan Zhang
   - Mingyang Xu
   - Jie Ren
-publication: IEEE/SICE International Symposium on System Integrations
-publication_short: SII 2023
+publication: IEEE/SICE International Symposium on System Integrations (SII 2023)
+publication_short: ""
 draft: false
 featured: true
 image:
