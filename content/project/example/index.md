@@ -56,3 +56,32 @@ The desire for **“Flying Through the Sea of Air”** is a vision that has cons
 ![](ma3.jpg "iManta performs high manoeuvring motions")
 
 ![](ma4.jpg "iManta shown in “Feng Ru Cup” Science and Technology Festival (Beijing, China)")
+
+
+
+## Features
+
+* Energy-efficient
+* Noiseless
+* Suitable for indoor environment
+* **Harmless for human-robot interaction**
+
+
+
+![](ma5.jpg "The interaction between humans and iManta")
+
+
+
+## Future Applications
+
+* Interactable and dynamic advertising media
+* Robot therapy (as comfort pets)
+* Long-time surveillance and event observation
+
+![](ma6.jpg)
+
+![](ma7.png "The application as dynamic advertising media")
+
+![](ma8.jpg "The application as comfort pets")
+
+![](ma9.jpg "The application for surveillance and event observation")
