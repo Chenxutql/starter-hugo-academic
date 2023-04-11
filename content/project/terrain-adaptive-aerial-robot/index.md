@@ -8,6 +8,12 @@ draft: false
 featured: false
 authors:
   - Mingyang Xu
+  - Yunkai Qi
+  - Jin Zhu
+  - Wanhe An
+  - Dada Hu
+  - Jiaxuan Zhang
+  - Shiqi Sun
 tags:
   - Aerial Robotics
 image:
