@@ -36,6 +36,12 @@ The desire for “Flying Through the Sea of Air” is a vision that has constant
 
 图片：MA2_2
 
+
+
+<https://www.youtube.com/watch?v=F1-1XwQG_yI>
+
+
+
 ## Overview:
 
 In this study, we proposed a new aerial robot that mimics the manta ray’s movement and is suitable for indoor-environment applications. The robot mainly comprises a lightweight helium-filled ballonet, a noiseless flapping-wing actuator, a pitch control mechanism, and a tail-like rudder. In the flight tests, the prototypes not only demonstrated controlled and flexible flight but also were able to execute manta-like high manoeuvring motions. Long operation time was ensured due to the helium ballonet body, low-frequency flapping wing, and low-power electronics. Overall, the developed bioinspired robot is featured as energy-efficient, noiseless, and harmless for human-robot interaction. It can further bring new applications for aerial robotics, such as robot therapy (as comfort pets), long-time surveillance and event observation, and interactable and dynamic advertising media.
