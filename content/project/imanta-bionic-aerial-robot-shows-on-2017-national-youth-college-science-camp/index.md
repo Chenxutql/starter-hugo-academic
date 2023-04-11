@@ -9,6 +9,7 @@ featured: false
 tags:
   - Human-robot Interaction
   - Exoskeleton
+  - Robot Control
 image:
   filename: featured.jpg
   focal_point: Smart
