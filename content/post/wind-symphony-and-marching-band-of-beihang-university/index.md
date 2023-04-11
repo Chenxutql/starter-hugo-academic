@@ -11,7 +11,7 @@ categories:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 Out of my love for music, I have been studying classical saxophone for more than 15 years and was a saxophonist in **Zengguang Philharmonic Wind Orchestra** (Dec. 2018 - Aug. 2019) and **Wind Orchestra and Marching Band of Beihang University** (Sep. 2015 - Jun. 2019). 
 
