@@ -6,7 +6,7 @@ publication_types:
   - "1"
 authors:
   - Yunfan Li
-  - Mingyang Xu
+  - admin
   - Keisuke Osawa
   - Eiichiro Tanaka
 author_notes: []
