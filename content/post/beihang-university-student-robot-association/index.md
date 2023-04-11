@@ -2,7 +2,7 @@
 title: Student Aeromodelling Association
 subtitle: ""
 date: 2022-07-02T08:13:01.934Z
-summary: ""
+summary: ember
 draft: false
 featured: false
 tags: []
