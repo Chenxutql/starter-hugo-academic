@@ -1,5 +1,5 @@
 ---
-title: Knowledge Base Management System for Components Selection
+title: Knowledge Base Management System for Components Selection (Chinese)
 date: 2017-05-20T04:23:55.002Z
 summary: Course design of Industrial Engineering Department, Beihang University
 draft: false
