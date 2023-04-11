@@ -3,7 +3,7 @@ widget: pages
 widget_id: RECENT-POSTS
 headless: true
 weight: 65
-title: Hobbys
+title: Extracurricular Activities
 subtitle: null
 content:
   filters:

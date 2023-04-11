@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 140
 
-title: Project_Publication
+title: Publications
 subtitle: ''
 
 content:
