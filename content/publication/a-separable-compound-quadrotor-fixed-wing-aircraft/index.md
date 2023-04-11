@@ -30,5 +30,5 @@ abstract: With the research on mental health, rehabilitation training and other
   model for machine learning process, which is more accurate than the general
   deep neural network. Using differential entropy as the main eigenvalue makes
   the system's ability to analyze emotions based on EEG more efficient.
-date: 2023-04-11T11:45:11.608Z
+date: 2023-01-20T11:45:11.608Z
 ---
