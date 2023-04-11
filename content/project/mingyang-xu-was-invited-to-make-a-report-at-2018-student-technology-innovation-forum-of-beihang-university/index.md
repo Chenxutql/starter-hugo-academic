@@ -3,11 +3,11 @@ title: Walking Assistive System Based on Emotion and Fatigue Detection
 subtitle: A control system used to promote user emotions during robot-assist
   walking, where physiological signals from users were collected to realize
   better human-robot interaction
-date: 2018-03-27T04:17:55.349Z
+date: 2023-04-11T04:05:58.621Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
