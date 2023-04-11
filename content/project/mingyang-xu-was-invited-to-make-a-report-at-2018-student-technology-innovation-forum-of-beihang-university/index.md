@@ -3,9 +3,8 @@ title: Control Method for Walking Assistive Robot Based on Emotion and Fatigue
   Detection
 subtitle: ""
 date: 2022-09-10T04:05:58.621Z
-summary: A control system used to promote user emotions during robot-assist
-  walking, where physiological signals from users were collected to realize
-  better human-robot interaction
+summary: A control system used to promote user emotions, where physiological
+  signals from users were collected to realize better human-robot interaction
 draft: false
 featured: false
 tags:
