@@ -32,4 +32,4 @@ Vertical take-off and landing aircrafts (VTOLs) are widely used in transport and
 
 ![](la1.jpg "Overview of developed prototypes")
 
-![](la2.png "Process of the terrain-adaptive landing mode")
+![](la2.jpg "Process of the terrain-adaptive landing mode")
