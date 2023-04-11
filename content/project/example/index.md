@@ -10,7 +10,8 @@ external_link: ""
 url_slides: ""
 subtitle: ""
 tags:
-  - BIonic Robotics
+  - Bioinspired Robotics
+  - Aerial Robotics
 links:
   - icon: twitter
     icon_pack: fab
