@@ -1,8 +1,8 @@
 ---
 widget: abcde
-widget_id: my-widget-123
+widget_id: RECENT
 headless: true
-weight: 10
+weight: 150
 title: enen
 active: false
 design:
