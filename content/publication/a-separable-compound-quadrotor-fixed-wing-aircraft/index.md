@@ -1,4 +1,4 @@
----
+  ---
 title: A Real-Time and Two-Dimensional Emotion Recognition System Based on EEG
   and HRV Using Machine Learning
 publication_types:

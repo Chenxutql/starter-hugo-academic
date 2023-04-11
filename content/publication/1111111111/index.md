@@ -4,7 +4,7 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - **Mingyang Xu**
+  - Mingyang Xu
   - Yifan Hua
   - Yunfan Li
   - Jyunrong Zhuang
