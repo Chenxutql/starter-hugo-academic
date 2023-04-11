@@ -1,6 +1,6 @@
 ---
 title: Development of an Ankle Assistive Robot with Instantly Gait-Adaptive Method
-subtitle: Accepted
+subtitle: Accepted1
 publication_types:
   - "2"
 authors:
@@ -18,6 +18,8 @@ publication: Journal of Robotics and Mechatronics (JRM)
 publication_short: ""
 draft: false
 featured: false
+tags:
+  - Accepted2
 image:
   filename: featured
   focal_point: Smart
