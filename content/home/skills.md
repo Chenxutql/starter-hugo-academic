@@ -17,5 +17,8 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
+  - name: SolidWorks
+    icon: solidWorks
+    icon_pack: custom
 widget_id: RECENT
 ---
