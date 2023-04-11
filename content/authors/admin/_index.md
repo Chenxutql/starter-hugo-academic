@@ -7,7 +7,6 @@ interests:
   - Human-robot Interaction
   - Human Augmentation
   - Bioinspired Robotics
-  - Mechatronics Desigh
 social:
   - icon: envelope
     icon_pack: fas
