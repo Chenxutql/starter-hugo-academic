@@ -3,8 +3,6 @@ title: Development of an Ankle Assistive Robot with Instantly Gait-Adaptive Meth
 publication_types:
   - "2"
 authors:
-  - "123"
-author_notes:
   - Mingyang Xu
   - Yifan Hua
   - Yunfan Li
@@ -14,8 +12,9 @@ author_notes:
   - Heehyol Lee
   - Louis Yuge
   - and Eiichiro Tanaka
-publication: Journal of Robotics and Mechatronics
-publication_short: JRM
+author_notes: []
+publication: Journal of Robotics and Mechatronics (JRM)
+publication_short: ""
 draft: false
 featured: false
 image:
