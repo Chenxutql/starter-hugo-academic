@@ -1,5 +1,5 @@
 ---
-slides: example
+#slides: example
 url_pdf: ""
 title: "iManta: Manta ray-inspired Aerial Robot"
 summary: A new airship robot that mimics the manta ray’s movement and is
