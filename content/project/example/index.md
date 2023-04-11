@@ -39,6 +39,7 @@ links:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  filename: featured.png
 url_code: ""
 ---
 Members: Mingyang Xu, Yunkai Qi, Xiaoyue Zhang, Ning Liu, Jiaxuan Zhang, Mengjie Xiao
