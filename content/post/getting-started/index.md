@@ -17,4 +17,4 @@ image:
   preview_only: true
   filename: featured.jpg
 ---
-Mingyang Xu worked in Recording Studio of Beihang University as a student cadre from Sep. 2016 - Jun. 2017, during which he recorded and produced music for bands and individuals.
+Mingyang Xu worked in Recording Studio of Beihang University as a student cadre from Sep. 2016 to Jun. 2017, during which he recorded and produced music for bands and individuals.
