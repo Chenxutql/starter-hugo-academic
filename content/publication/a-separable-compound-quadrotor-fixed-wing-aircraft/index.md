@@ -14,7 +14,7 @@ authors:
 publication: IEEE/SICE International Symposium on System Integrations (SII 2023)
 publication_short: ""
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
