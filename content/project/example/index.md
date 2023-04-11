@@ -2,18 +2,13 @@
 slides: example
 url_pdf: ""
 title: "iManta: Manta ray-inspired Aerial Robot"
-summary: >-
-  Members: Mingyang Xu, Yunkai Qi, Xiaoyue Zhang, Ning Liu, Jiaxuan Zhang,
-  Mengjie Xiao
-
-
-  Supervisor: Prof. Zhongcai Pei, Prof. Jianhong Liang
+summary: A new airship robot that mimics the manta ray’s movement and is
+  suitable for indoor-environment applications
 url_video: ""
 date: 2023-04-11T01:56:22.167Z
 external_link: ""
 url_slides: ""
-subtitle: A new airship robot that mimics the manta ray’s movement and is
-  suitable for indoor-environment applications
+subtitle: ""
 tags:
   - BIonic Robotics
 links:
@@ -27,19 +22,21 @@ image:
   filename: featured.png
 url_code: ""
 ---
+Members: Mingyang Xu, Yunkai Qi, Xiaoyue Zhang, Ning Liu, Jiaxuan Zhang, Mengjie Xiao
+
+Supervisor: Prof. Zhongcai Pei, Prof. Jianhong Liang
+
+![](group.png "Group picture")
+
 ## Motivation:
 
 The desire for “Flying Through the Sea of Air” is a vision that has constantly motivated us to explore the design of aerial robots since we noticed that the manta ray swims through the water as a bird flies through the air. Most conventional aerial robots are driven by propellers. However, the use of propellers is accompanied by noise and danger due to the high-speed rotation. Once the operating propeller accidentally touches persons or objects, injury or economic loss may result, which makes the propeller-based aerial robots usually unsuitable for indoor environment application. Biomimetics in propulsion inspires us to solve the above limitation. 
 
-![](group.png "Group picture")
+{{< youtube 5PalNpcQS3s >}}
 
+![](ma2_1.jpg)
 
-{{< youtube kOWK_CO2MX8 >}}
-
-
-![](ma0.jpg "Overview")
-
-
+![](ma2_2.jpg "The movement of manta rays")
 
 <https://www.youtube.com/watch?v=F1-1XwQG_yI>
 
