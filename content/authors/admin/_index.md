@@ -1,12 +1,13 @@
 ---
 title: Mingyang Xu
 role: ""
-avatar_filename: wechat-image.jpg
-bio: My research interests are robotics and mechatronics.
+avatar_filename: avatar.jpg
+bio: ""
 interests:
-  - Walking Assistive Robotics
-  - Bionic Robotics
-  - Mechatronics Design
+  - Human-robot interaction
+  - Human augmentation
+  - Bioinspired robotics
+  - Mechatronics Desigh
 social:
   - icon: envelope
     icon_pack: fas
@@ -14,20 +15,22 @@ social:
 organizations:
   - name: Waseda University
     url: https://www.waseda.jp/
+  - name: Beihang University
+    url: https://ev.buaa.edu.cn/
 education:
   courses:
     - course: Master in Information, Production and Systems
       institution: Waseda University 早稲田大学, Japan
       year: 2023
     - course: Bachelor in Mechanical Engineering
-      institution: Beihang University 北京航空航天大学, China
+      institution: Beihang University, China
       year: 2019
-email: test@example.org
+email: mingyang.xu@ruri.waseda.jp
 superuser: true
 highlight_name: true
 ---
-Mingyang Xu is currently a Master student at Waseda University, Japan. Before that, I received my Bachelor's Degree in Mechanical Engineering with Excellent Graduate Honor in 2019 from Beihang University, Beijing, China.
+Mingyang Xu is currently a researcher at Ritsumeikan University, Japan. His research interests include **human-robot interaction**, **human augmentation**, and **bioinspired robotics**. 
 
-During my master studies, I work on **walking assistive robot** project under the supervision of Prof. and Dr. . Previously, I worked on **Terrain-adaptive Aerial Robot** project supervised by Prof. Tianmiao Wang in Intelligent Technology and Robotics Lab (iTR) and **"iMANTA" Bionic Aerial Robot** project supervised by Prof. Jianhong Liang and Prof. Zhongcai Pei during my bachelor study.
+In 2023, he received his Master’s Degree in Information, Production and Systems Engineering from **Waseda University**, Japan. His Bachelor’s Degree was obtained in Mechanical Engineering with Excellent Graduate Honor in 2019 from **Beihang University**, China.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+For more information, please refer to the latest **CV** here.
