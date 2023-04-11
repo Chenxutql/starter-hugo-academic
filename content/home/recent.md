@@ -1,5 +1,5 @@
 ---
-widget: accomplishments1
+widget: recent
 date_format: Jan 2006
 item:
   - certificate_url: ""
