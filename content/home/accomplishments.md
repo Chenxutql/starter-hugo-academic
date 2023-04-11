@@ -8,7 +8,7 @@ item:
     date_end: ""
     date_start: 2022-09-20
     description: 
-    organization: 
+    organization: JSRMR
     organization_url: ""
     title: Best Award, the 4th Conference of the Japanese Society for Regenerative Medicine and Rehabilitation (JSRMR 2022)
     url: ""
