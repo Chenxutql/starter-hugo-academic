@@ -2,16 +2,16 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - icon: Python
-    icon_pack: custom
+  - #icon: jsrmr
+    #icon_pack: custom
     certificate_url: ""
     date_end: ""
     date_start: 2022-09-20
     description: 
     organization: Japanese Society for Regenerative Medicine and Rehabilitation (JSRMR 2022)
-    organization_url: ""
+    organization_url: https://saiseireha.com/
     title: Best Award, the 4th Conference of the Japanese Society for Regenerative Medicine and Rehabilitation (JSRMR 2022)
-    url: ""
+    url: https://system.mech.kyushu-u.ac.jp/jsrmr2022/index.html
   - certificate_url: ""
     date_end: ""
     date_start: 2022-11-20
@@ -25,7 +25,7 @@ item:
     date_start: 2021-04-20
     description: ""
     organization: Japan Student Services Organization (JASSO)
-    organization_url: ""
+    organization_url: https://www.jasso.go.jp/en/
     title: Monbukagakusho (MEXT) Honors Scholarship for Privately Financed International Students
     url: ""
   - certificate_url: ""
@@ -85,7 +85,7 @@ item:
     date_start: 2018-01-01
     description: ""
     organization: Lee Kum Kee Company Limited
-    organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
+    organization_url: 
     title: 1th prize, The 1st "Lee Kum Kee" Innovation Scholarship
     url: ""
   #- certificate_url: ""
@@ -109,7 +109,7 @@ item:
     date_start: 2018-11-01
     description: ""
     organization: Tsinghua University
-    organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
+    organization_url: 
     title: Golden prize, Beijing College Students Music Festival (Wind Ensemble
       Competition)
     url: ""
@@ -120,7 +120,7 @@ item:
     organization: Beijing Municipal Science and Technology Commission
     organization_url: 
     title: 1th prize, The 3rd China "Internet+" Innovation and Entrepreneurship Competition (Beijing)
-    url: https://cxcyds.zju.edu.cn/
+    url: 
 widget_id: RECENT
 headless: true
 weight: 70
