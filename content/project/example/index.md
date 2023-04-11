@@ -29,6 +29,10 @@ url_code: ""
 
 ![](group.png)
 
+![](ma0.jpg)
+
+
+
 # Motivation:
 
 The desire for **“Flying Through the Sea of Air”** is a vision that has constantly motivated us to explore the design of aerial robots since we noticed that **the manta ray swims through the water as a bird flies through the air**. Most conventional aerial robots are driven by propellers. However, the use of propellers is accompanied by noise and danger due to the high-speed rotation. Once the operating propeller accidentally touches persons or objects, injury or economic loss may result, which makes the propeller-based aerial robots usually unsuitable for indoor environment application. Biomimetics in propulsion inspires us to solve the above limitation. 
