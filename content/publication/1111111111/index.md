@@ -1,9 +1,21 @@
 ---
-title: "1111111111"
+title: Development of an Ankle Assistive Robot with Instantly Gait-Adaptive Method
 publication_types:
-  - "0"
+  - "2"
 authors:
   - "123"
+author_notes:
+  - Mingyang Xu
+  - Yifan Hua
+  - Yunfan Li
+  - Jyunrong Zhuang
+  - Keisuke Osawa
+  - Kei Nakagawa
+  - Heehyol Lee
+  - Louis Yuge
+  - and Eiichiro Tanaka
+publication: Journal of Robotics and Mechatronics
+publication_short: JRM
 draft: false
 featured: false
 image:
