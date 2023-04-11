@@ -23,9 +23,9 @@ image:
   preview_only: true
 url_code: ""
 ---
-**Members:** Mingyang Xu, Yunkai Qi, Xiaoyue Zhang, Ning Liu, Jiaxuan Zhang, Mengjie Xiao
+**Members:** Mingyang Xu, Yunkai Qi, Xiaoyue Zhang, Ning Liu, Jiaxuan Zhang, and Mengjie Xiao
 
-**Supervisor:** Prof. Zhongcai Pei, Prof. Jianhong Liang
+**Supervisor:** Prof. Zhongcai Pei and Prof. Jianhong Liang
 
 ![](group.png)
 
