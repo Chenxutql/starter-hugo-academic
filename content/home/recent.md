@@ -22,24 +22,9 @@ item:
     url: http://www.jienengjianpai.org/
 widget_id: RECENT
 headless: true
-weight: 80
+weight: 70
 title: Awards1
 subtitle: null
 design:
   columns: "2"
 ---
-
-
-#---
-#widget: accomplishments1
-#widget_id: RECENT
-#headless: true
-#weight: 80
-#title: Awards1
-#active: true
-#design:
-  #columns: "2"
-  #background:
-    #text_color_light: false
-    #image_darken: 0
-#---
