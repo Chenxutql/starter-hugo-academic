@@ -12,6 +12,6 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-Mingyang Xu is a member of Student Aeromodelling Association of Beihang University from Oct. 2015  Jun. 2016.
+Mingyang Xu is a member of Student Aeromodelling Association of Beihang University from Oct. 2015 to Jun. 2016.
 
 ![](ae1.jpg)
