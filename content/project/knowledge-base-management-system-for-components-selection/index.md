@@ -18,6 +18,6 @@ image:
 
 # Overview
 
-In this project, a knowledge base management system (Chinese) for components selection was designed. In addition, we tried out the functions of case-based reasoning, such as knowledge-base case searching, case distance estimation and case matching to realize intelligent component troubleshooting.
+In this project, a knowledge base management system for components selection was designed. In addition, we tried out the functions of case-based reasoning, such as knowledge-base case searching, case distance estimation and case matching to realize intelligent component troubleshooting.
 
 ![](co1.png)
