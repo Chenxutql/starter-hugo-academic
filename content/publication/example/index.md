@@ -5,11 +5,10 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
+  - Yunfan Li
   - Mingyang Xu
-  - Yunkai Qi
-  - Jin Zhu
-  - Jiaxuan Zhang
-  - Wanhe An
+  - Keisuke Osawa
+  - Eiichiro Tanaka
 author_notes: []
 publication: JSME-IIP/ASME-ISPS Joint International Conference on
   Micromechatronics for Information and Precision Equipment (MIPE 2022)
