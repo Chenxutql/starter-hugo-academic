@@ -15,6 +15,7 @@ authors:
   - Jiaxuan Zhang
   - Shiqi Sun
 tags:
+  - Bioinspired Robotics
   - Aerial Robotics
 image:
   filename: featured

@@ -3,6 +3,8 @@ title: Knowledge Base Management System for Components Selection
 date: 2023-04-11T04:23:55.002Z
 draft: false
 featured: false
+tags:
+  - Programming
 external_link: ""
 image:
   filename: ""

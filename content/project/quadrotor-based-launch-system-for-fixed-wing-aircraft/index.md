@@ -5,6 +5,8 @@ summary: A multicopter-based launch system for fix-wing aircrafts was developed
   to provide them with a VTOL capability
 draft: false
 featured: false
+categories:
+  - Aerial Robotics
 image:
   filename: featured.png
   focal_point: Smart

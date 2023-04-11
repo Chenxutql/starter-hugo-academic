@@ -6,6 +6,9 @@ summary: The gait-adaptive control method was developed to adapt to the user’s
   changing gait
 draft: false
 featured: false
+tags:
+  - Human-robot Interaction
+  - Exoskeleton
 image:
   filename: featured.jpg
   focal_point: Smart
