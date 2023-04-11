@@ -8,7 +8,7 @@ item:
     date_end: ""
     date_start: 2022-09-20
     description: 
-    organization: JSRMR
+    organization: Japanese Society for Regenerative Medicine and Rehabilitation (JSRMR 2022)
     organization_url: ""
     title: Best Award, the 4th Conference of the Japanese Society for Regenerative Medicine and Rehabilitation (JSRMR 2022)
     url: ""
@@ -49,7 +49,7 @@ item:
     date_end: ""
     date_start: 2017-08-01
     description: 
-    organization: 
+    organization: National University Student Social Practice and Science Contest on Energy Saving and Emission Reduction Commission
     organization_url: ""
     title: 3rd prize, The 10th National University Student Social Practice and
       Science Contest on Energy Saving & Emission Reduction
