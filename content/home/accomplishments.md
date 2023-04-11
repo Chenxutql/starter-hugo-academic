@@ -4,19 +4,43 @@ date_format: Jan 2006
 item:
   - certificate_url: ""
     date_end: ""
+    date_start: 2022-11-20
+    description: ""
+    organization: 
+    organization_url: ""
+    title: Azusa Ono Memorial Scholarship (Waseda University)
+    url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2021-04-20
+    description: ""
+    organization: 
+    organization_url: ""
+    title: Monbukagakusho (MEXT) Honors Scholarship for Privately Financed International Students
+    url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2017-04-21
+    description: ""
+    organization: 
+    organization_url: ""
+    title: Taiwan International Marching Band Competition 2017 
+    url: ""
+  - certificate_url: ""
+    date_end: ""
     date_start: 2017-08-20
     description: ""
     organization: 挑战杯
-    organization_url: http://www.tiaozhanbei.net/
+    organization_url: ""
     title: 1th prize, The 9th "Challenge Cup" Science and Technology Works
       Competition (Beijing)
-    url: http://www.tiaozhanbei.net/
-  - certificate_url: http://www.jienengjianpai.org/
+    url: ""
+  - certificate_url: ""
     date_end: ""
     date_start: 2017-08-01
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    description: 
     organization: 节能减排
-    organization_url: http://www.jienengjianpai.org/
+    organization_url: ""
     title: 3rd prize, The 10th National University Student Social Practice and
       Science Contest on Energy Saving & Emission Reduction
     url: http://www.jienengjianpai.org/
@@ -35,8 +59,7 @@ item:
     description: ""
     organization: 创青春
     organization_url: http://bj.chuangqingchun.net/
-    title: Golden prize, China College Students Entrepreneurship Competition in 2018
-      (Beijing)
+    title: Golden prize, China College Students Entrepreneurship Competition in 2018 (Beijing)
     url: http://bj.chuangqingchun.net/
   - certificate_url: ""
     date_end: ""
@@ -55,23 +78,22 @@ item:
     organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
     title: 1th prize, The 1st "Lee Kum Kee" Innovation Scholarship
     url: ""
-  - certificate_url: ""
-    date_end: ""
-    date_start: 2018-10-01
-    description: ""
-    organization: 优干
-    organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
-    title: Excellent Student Cadre of Beihang University for the 2017-2018 academic
-      year
-    url: ""
-  - certificate_url: ""
-    date_end: ""
-    date_start: 2017-10-01
-    description: ""
-    organization: 三好
-    organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
-    title: Merit Student of Beihang University for the 2015-2017 academic year
-    url: ""
+  #- certificate_url: ""
+    #date_end: ""
+    #date_start: 2018-10-01
+    #description: ""
+    #organization: 优干
+    #organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
+    #title: Excellent Student Cadre of Beihang University for the 2017-2018 academic year
+    #url: ""
+  #- certificate_url: ""
+    #date_end: ""
+    #date_start: 2017-10-01
+    #description: ""
+    #organization: 三好
+    #organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
+    #title: Merit Student of Beihang University for the 2015-2017 academic year
+    #url: ""
   - certificate_url: ""
     date_end: ""
     date_start: 2018-11-01
@@ -81,14 +103,13 @@ item:
     title: Golden prize, Beijing College Students Music Festival (Wind Ensemble
       Competition)
     url: ""
-  - certificate_url: https://cxcyds.zju.edu.cn/
+  - certificate_url: 
     date_end: ""
     date_start: 2017-09-01
     description: ""
     organization: 互联网+
-    organization_url: https://cxcyds.zju.edu.cn/
-    title: 1th prize, The 3rd China "Internet+" Innovation and Entrepreneurship
-      Competition (Beijing)
+    organization_url: 
+    title: 1th prize, The 3rd China "Internet+" Innovation and Entrepreneurship Competition (Beijing)
     url: https://cxcyds.zju.edu.cn/
 widget_id: RECENT
 headless: true
