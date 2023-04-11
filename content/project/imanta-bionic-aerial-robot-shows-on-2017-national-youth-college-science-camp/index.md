@@ -8,7 +8,7 @@ summary: The gait-adaptive control method was developed to adapt to the user’s
 draft: false
 featured: false
 image:
-  filename: rehomepage.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
