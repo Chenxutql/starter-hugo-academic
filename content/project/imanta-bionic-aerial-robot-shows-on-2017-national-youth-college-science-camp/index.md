@@ -15,7 +15,7 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-![](re1.jpg "Overview of the ankle-assist robot and the GUI")
+![](re1.jpg)
 
 # Abstract
 
