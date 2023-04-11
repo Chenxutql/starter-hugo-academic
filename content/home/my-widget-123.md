@@ -1,8 +1,8 @@
 ---
 widget: AKK
-widget_id: my-widget-123
+widget_id: RECENT
 headless: true
-weight: 75
+weight: 150
 title: Awards6
 active: true
 design:
