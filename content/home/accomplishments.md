@@ -16,15 +16,15 @@ item:
     date_end: ""
     date_start: 2022-11-20
     description: ""
-    organization: 
+    organization: Waseda University
     organization_url: ""
-    title: Azusa Ono Memorial Scholarship (Waseda University)
+    title: Azusa Ono Memorial Scholarship
     url: ""
   - certificate_url: ""
     date_end: ""
     date_start: 2021-04-20
     description: ""
-    organization: 
+    organization: Japan Student Services Organization (JASSO)
     organization_url: ""
     title: Monbukagakusho (MEXT) Honors Scholarship for Privately Financed International Students
     url: ""
@@ -32,7 +32,7 @@ item:
     date_end: ""
     date_start: 2017-04-21
     description: ""
-    organization: 
+    organization: World Association of Marching Show Bands
     organization_url: ""
     title: Taiwan International Marching Band Competition 2017 
     url: ""
@@ -40,7 +40,7 @@ item:
     date_end: ""
     date_start: 2017-08-20
     description: ""
-    organization: 挑战杯
+    organization: Beijing Municipal Science and Technology Commission
     organization_url: ""
     title: 1th prize, The 9th "Challenge Cup" Science and Technology Works
       Competition (Beijing)
@@ -49,7 +49,7 @@ item:
     date_end: ""
     date_start: 2017-08-01
     description: 
-    organization: 节能减排
+    organization: 
     organization_url: ""
     title: 3rd prize, The 10th National University Student Social Practice and
       Science Contest on Energy Saving & Emission Reduction
@@ -58,7 +58,7 @@ item:
     date_end: ""
     date_start: 2018-05-01
     description: ""
-    organization: 冯如杯
+    organization: Beihang University
     organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
     title: 1th prize, The 28th "Feng Ru Cup" Competition of Academic and
       Technological Works
@@ -67,7 +67,7 @@ item:
     date_end: ""
     date_start: 2018-07-01
     description: ""
-    organization: 创青春
+    organization: Beijing Municipal Science and Technology Commission
     organization_url: http://bj.chuangqingchun.net/
     title: Golden prize, China College Students Entrepreneurship Competition in 2018 (Beijing)
     url: http://bj.chuangqingchun.net/
@@ -75,7 +75,7 @@ item:
     date_end: ""
     date_start: 2018-06-01
     description: ""
-    organization: 工信创业
+    organization: Beijing Municipal Science and Technology Commission
     organization_url: ""
     title: 1th prize, Entrepreneurship Scholarship of Ministry of Industry and
       Information Technology
@@ -84,7 +84,7 @@ item:
     date_end: ""
     date_start: 2018-01-01
     description: ""
-    organization: 李锦记
+    organization: Lee Kum Kee Company Limited
     organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
     title: 1th prize, The 1st "Lee Kum Kee" Innovation Scholarship
     url: ""
@@ -108,7 +108,7 @@ item:
     date_end: ""
     date_start: 2018-11-01
     description: ""
-    organization: 大展
+    organization: Tsinghua University
     organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
     title: Golden prize, Beijing College Students Music Festival (Wind Ensemble
       Competition)
@@ -117,7 +117,7 @@ item:
     date_end: ""
     date_start: 2017-09-01
     description: ""
-    organization: 互联网+
+    organization: Beijing Municipal Science and Technology Commission
     organization_url: 
     title: 1th prize, The 3rd China "Internet+" Innovation and Entrepreneurship Competition (Beijing)
     url: https://cxcyds.zju.edu.cn/
