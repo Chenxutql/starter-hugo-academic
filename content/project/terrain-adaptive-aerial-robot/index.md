@@ -2,7 +2,7 @@
 title: Terrain-adaptive Aerial Robot with Legged Landing Gear
 subtitle: The aerial robot features robotic landing gear, which can be
   automatically adjusted to keep the robot horizontal during landing
-date: 2023-04-11T04:07:59.855Z
+date: 2023-04-11T04:12:23.346Z
 draft: false
 featured: false
 authors:
@@ -27,3 +27,9 @@ Vertical take-off and landing aircrafts (VTOLs) are widely used in transport and
 # Video
 
 {{< youtube uX7zKS1Cb6I >}}
+
+
+
+![](la1.jpg "Overview of developed prototypes")
+
+![](la2.png "Process of the terrain-adaptive landing mode")
