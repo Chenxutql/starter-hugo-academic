@@ -9,13 +9,13 @@ interests:
   - Bioinspired Robotics
   - Mechatronics Desigh
 social:
-  - icon: envelope
+  - icon: youtube
     icon_pack: fas
     link: /#contact
   - display:
       header: false
     icon_pack: fas
-    icon: weibo
+    icon: youtube
     link: https://www.youtube.com/@mingyangsrobotworld1253
 organizations:
   - name: Waseda University
