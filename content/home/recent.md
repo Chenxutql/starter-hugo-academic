@@ -1,5 +1,5 @@
 ---
-widget: recent
+widget: akk
 date_format: Jan 2006
 item:
   - certificate_url: ""
