@@ -32,11 +32,11 @@ As the population ages, the number of elderly suffering from systemic diseases s
 
 1﻿11
 
-![](regif1.jpg "Robot operates in normal mode, the robot provides constant walking assistance to the user")
+![](regif1.jpg)
 
-![](regif2.jpg "Robot operates in gait-adaptive mode, the robot adjusts the assistance automatically to adapt to the user’s changing gait")
+![](regif2.jpg)
 
-![](gui1.jpg "Users can adjust the assistance mode and assistance parameter by the developed GUI")
+![](gui1.jpg)
 
 
 # R﻿elated Publications
