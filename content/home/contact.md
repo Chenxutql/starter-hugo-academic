@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: mingyang.xu@ruri.waseda.jp
-  phone: (+81)80-2643-8772
+  phone: (+81) 80-2643-8772
   # address:
     # street: 450 Serra Mall
     # city: Stanford
