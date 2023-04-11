@@ -17,6 +17,7 @@ authors:
 tags:
   - Bioinspired Robotics
   - Aerial Robotics
+  - Robot Control
 image:
   filename: featured
   focal_point: Smart
