@@ -35,4 +35,4 @@ Mingyang Xu is currently a researcher at Ritsumeikan University, Japan. His rese
 
 In 2023, he received his Master’s Degree in Information, Production and Systems Engineering from **Waseda University**, Japan. His Bachelor’s Degree was obtained in Mechanical Engineering with Excellent Graduate Honor in 2019 from **Beihang University**, China.
 
-{{< icon name="download" pack="fas" >}} For more information, please download the latest {{< staticref "uploads/xmy_resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
+{{< icon name="download" pack="fas" >}} For more information, please download the latest {{< staticref "uploads/mingyangxu_cv.pdf" "newtab" >}}CV{{< /staticref >}} here.
