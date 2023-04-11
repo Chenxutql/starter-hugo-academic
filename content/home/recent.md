@@ -22,7 +22,7 @@ item:
     url: http://www.jienengjianpai.org/
 widget_id: RECENT
 headless: true
-weight: 70
+weight: 75
 title: Awards1
 subtitle: null
 design:
