@@ -1,6 +1,6 @@
 ---
 title: Development of an Ankle Assistive Robot with Instantly Gait-Adaptive Method
-subtitle: Accepted1
+subtitle: ""
 publication_types:
   - "2"
 authors:
@@ -14,15 +14,14 @@ authors:
   - Louis Yuge
   - and Eiichiro Tanaka
 author_notes: []
-publication: Journal of Robotics and Mechatronics (JRM)
+publication: Journal of Robotics and Mechatronics (JRM) (Accepted)
 publication_short: ""
 draft: false
 featured: false
-tags:
-  - Accepted2
+tags: []
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-02T06:17:55.196Z
+date: 2023-04-11T04:37:12.415Z
 ---
