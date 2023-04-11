@@ -7,6 +7,10 @@ summary: A control system used to promote user emotions during robot-assist
   better human-robot interaction
 draft: false
 featured: false
+tags:
+  - Human-robot Interaction
+  - Exoskeleton
+  - Programming
 image:
   filename: featured.jpg
   focal_point: Smart
