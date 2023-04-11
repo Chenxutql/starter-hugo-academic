@@ -15,7 +15,7 @@ social:
   - display:
       header: false
     icon_pack: fas
-    icon: youtube
+    icon: weibo
     link: https://www.youtube.com/@mingyangsrobotworld1253
 organizations:
   - name: Waseda University
