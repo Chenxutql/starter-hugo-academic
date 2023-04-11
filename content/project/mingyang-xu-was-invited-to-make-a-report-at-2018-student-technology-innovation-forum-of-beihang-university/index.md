@@ -30,4 +30,5 @@ image:
 # Related Publications:
 
 \[1] Y. Li, **M. Xu**, K. Osawa, E. Tanaka, “A Control Method for Walking Assistance Robot Considering Emotion and Body Condition,” in JSME-IIP/ASME-ISPS Joint International Conference on Micromechatronics for Information and Precision Equipment (MIPE 2022), A1-1-03, 2022. 
+
 \[2] Y. Wei, Y. Li, **M. Xu**, Y. Gong, K. Osawa, E. Tanaka, “A Real-Time and Two-Dimensional Emotion Recognition System Based on EEG and HRV Using Machine Learning,” in IEEE/SICE International Symposium on System Integrations (SII 2023), Atlanta, GA, USA, 2023, pp. 1-6.
