@@ -42,7 +42,7 @@ item:
     description: ""
     organization: Beijing Municipal Science and Technology Commission
     organization_url: ""
-    title: 1th prize, The 9th "Challenge Cup" Science and Technology Works
+    title: 1th prize, the 9th "Challenge Cup" Science and Technology Works
       Competition (Beijing)
     url: ""
   - certificate_url: ""
@@ -51,7 +51,7 @@ item:
     description: 
     organization: National University Student Social Practice and Science Contest on Energy Saving and Emission Reduction Commission
     organization_url: ""
-    title: 3rd prize, The 10th National University Student Social Practice and
+    title: 3rd prize, the 10th National University Student Social Practice and
       Science Contest on Energy Saving & Emission Reduction
     url: http://www.jienengjianpai.org/
   - certificate_url: ""
@@ -60,7 +60,7 @@ item:
     description: ""
     organization: Beihang University
     organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
-    title: 1th prize, The 28th "Feng Ru Cup" Competition of Academic and
+    title: 1th prize, the 28th "Feng Ru Cup" Competition of Academic and
       Technological Works
     url: https://www-fengrubei-net.e1.buaa.edu.cn/
   - certificate_url: ""
@@ -86,7 +86,7 @@ item:
     description: ""
     organization: Lee Kum Kee Company Limited
     organization_url: 
-    title: 1th prize, The 1st "Lee Kum Kee" Innovation Scholarship
+    title: 1th prize, the 1st "Lee Kum Kee" Innovation Scholarship
     url: ""
   #- certificate_url: ""
     #date_end: ""
@@ -119,7 +119,7 @@ item:
     description: ""
     organization: Beijing Municipal Science and Technology Commission
     organization_url: 
-    title: 1th prize, The 3rd China "Internet+" Innovation and Entrepreneurship Competition (Beijing)
+    title: 1th prize, the 3rd China "Internet+" Innovation and Entrepreneurship Competition (Beijing)
     url: 
 widget_id: RECENT
 headless: true
