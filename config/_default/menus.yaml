@@ -11,23 +11,23 @@ main:
     url: '#projects'
     weight: 20
   - name: Publications
-    url: '#publication'
+    url: '#publications'
     weight: 30
   - name: Awards
     url: '#accomplishments'
     weight: 40
-  - name: Posts
-    url: '#featured'
-    weight: 50
+  #- name: Posts
+    #url: '#featured'
+    #weight: 50
   - name: Hobbys
     url: '#posts'
-    weight: 60
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 60
   - name: CV_EN
     url: ''
-    weight: 80
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
