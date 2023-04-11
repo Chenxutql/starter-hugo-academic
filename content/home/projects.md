@@ -13,14 +13,15 @@ content:
       tag: "*"
     - name: Human-robot Interaction
       tag: Human-robot Interaction
-    - name: Walking Assistive Robotics
-      tag: Exoskeleton
     - name: Bioinspired Robotics
       tag: Bioinspired Robotics
-    - name: Aerial Robotics
-      tag: Aerial Robotics
     - name: Programming
       tag: Programming
+    - name: Walking Assistive Robotics
+      tag: Exoskeleton
+    - name: Aerial Robotics
+      tag: Aerial Robotics
+
 design:
   columns: "2"
   view: 2
