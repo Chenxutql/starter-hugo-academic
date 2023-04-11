@@ -17,9 +17,10 @@ links:
     name: Follow
     url: https://twitter.com/georgecushen
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
   filename: featured.png
+  preview_only: true
 url_code: ""
 ---
 Members: Mingyang Xu, Yunkai Qi, Xiaoyue Zhang, Ning Liu, Jiaxuan Zhang, Mengjie Xiao
