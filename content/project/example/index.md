@@ -69,3 +69,5 @@ The desire for **“Flying Through the Sea of Air”** is a vision that has cons
 ![](ma8.jpg "The application as comfort pets")
 
 ![](ma9.jpg "The application for surveillance and event observation")
+
+![](group.jpg)
