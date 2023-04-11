@@ -4,14 +4,19 @@ role: ""
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Human-robot interaction
-  - Human augmentation
-  - Bioinspired robotics
+  - Human-robot Interaction
+  - Human Augmentation
+  - Bioinspired Robotics
   - Mechatronics Desigh
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - display:
+      header: false
+    icon_pack: fas
+    icon: youtube
+    link: https://www.youtube.com/@mingyangsrobotworld1253
 organizations:
   - name: Waseda University
     url: https://www.waseda.jp/
