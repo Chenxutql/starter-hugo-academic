@@ -92,7 +92,7 @@ item:
     url: https://cxcyds.zju.edu.cn/
 widget_id: RECENT
 headless: true
-weight: 60
+weight: 70
 title: Awards
 subtitle: null
 design:
