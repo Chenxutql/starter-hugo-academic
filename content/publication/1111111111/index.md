@@ -1,5 +1,6 @@
 ---
 title: Development of an Ankle Assistive Robot with Instantly Gait-Adaptive Method
+subtitle: Accepted
 publication_types:
   - "2"
 authors:
