@@ -21,6 +21,8 @@ content:
       tag: Exoskeleton
     - name: Aerial Robotics
       tag: Aerial Robotics
+    - name: Robot Control
+      tag: Robot Control
 
 design:
   columns: "2"
