@@ -4,9 +4,13 @@ title: A Real-Time and Two-Dimensional Emotion Recognition System Based on EEG
 publication_types:
   - "1"
 authors:
-  - Jiaxuan Zhang
+  - Yongxin Wei
+  - Yunfan Li
   - Mingyang Xu
-  - Jie Ren
+  - Yifan Hua
+  - Yukai Gong
+  - Keisuke Osawa
+  - Eiichiro Tanaka
 publication: IEEE/SICE International Symposium on System Integrations (SII 2023)
 publication_short: ""
 draft: false
