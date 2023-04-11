@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Yongxin Wei
   - Yunfan Li
-  - Mingyang Xu
+  - admin
   - Yifan Hua
   - Yukai Gong
   - Keisuke Osawa
