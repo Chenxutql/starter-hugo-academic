@@ -11,14 +11,16 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Bionic Robotics
-      tag: Bionic Robotics
+    - name: Human-robot Interaction
+      tag: Human-robot Interaction
     - name: Walking Assistive Robotics
-      tag: Walking Assistive Robotics
+      tag: Exoskeleton
+    - name: Bioinspired Robotics
+      tag: Bioinspired Robotics
     - name: Aerial Robotics
       tag: Aerial Robotics
+    - name: Programming
+      tag: Programming
 design:
   columns: "2"
   view: 2
