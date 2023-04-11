@@ -34,7 +34,7 @@ The desire for “Flying Through the Sea of Air” is a vision that has constant
 ![](group.png "Group picture")
 
 
-{{< youtube w7Ft2ymGmfc >}}
+{{< youtube kOWK_CO2MX8 >}}
 
 
 ![](ma0.jpg "Overview")
