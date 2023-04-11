@@ -6,14 +6,7 @@ summary: The aerial robot features robotic landing gear, which can be
   automatically adjusted to keep the robot horizontal during landing
 draft: false
 featured: false
-authors:
-  - Mingyang Xu
-  - Yunkai Qi
-  - Jin Zhu
-  - Wanhe An
-  - Dada Hu
-  - Jiaxuan Zhang
-  - Shiqi Sun
+authors: []
 tags:
   - Bioinspired Robotics
   - Aerial Robotics
