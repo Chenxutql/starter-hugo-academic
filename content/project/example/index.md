@@ -26,19 +26,23 @@ Members: Mingyang Xu, Yunkai Qi, Xiaoyue Zhang, Ning Liu, Jiaxuan Zhang, Mengjie
 
 Supervisor: Prof. Zhongcai Pei, Prof. Jianhong Liang
 
-![](group.png "Group picture")
+![](group.png)
 
 ## Motivation:
 
 The desire for **“Flying Through the Sea of Air”** is a vision that has constantly motivated us to explore the design of aerial robots since we noticed that **the manta ray swims through the water as a bird flies through the air**. Most conventional aerial robots are driven by propellers. However, the use of propellers is accompanied by noise and danger due to the high-speed rotation. Once the operating propeller accidentally touches persons or objects, injury or economic loss may result, which makes the propeller-based aerial robots usually unsuitable for indoor environment application. Biomimetics in propulsion inspires us to solve the above limitation. 
 
+
+
 {{< youtube 5PalNpcQS3s >}}
 
-![](ma2_1.jpg)
 
-![](ma2_2.jpg "The movement of manta rays")
 
-<https://www.youtube.com/watch?v=F1-1XwQG_yI>
+![](ma2_2.jpg)
+
+![](ma2_1.jpg "The movement of manta rays")
+
+
 
 ## Overview:
 
