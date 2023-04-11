@@ -17,13 +17,13 @@ image:
   focal_point: Smart
   preview_only: true
 ---
+
+![](ashomepage.jpg)
+
 # Abstract
 
 **The purpose of this study is to develop a control system for walking assistive robot that enables the user to keep positive emotions and maintain high levels of motivation during exercise.** In this study, a control method based on emotion recognition and fatigue detection was proposed. We used **brainwave and heartbeat signals** to train a deep neural network (DNN) model to recognize users’ emotions. **Portable near-infrared spectroscopy (NIRS)** was used to detect muscle fatigue. Furthermore, we established a 3D human state model to evaluate the user’s emotional and fatigue states. We also performed experiments to evaluate the ability of the control method to improve the effect of walking exercise.
 
-
-
-![](ashomepage.jpg "Overview of the walking assistive system")
 
 ![](as2.jpg "Control process of the walking assistive system")
 
