@@ -12,11 +12,7 @@ subtitle: ""
 tags:
   - Bioinspired Robotics
   - Aerial Robotics
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 image:
   caption: ""
   focal_point: Smart
