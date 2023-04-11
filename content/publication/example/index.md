@@ -1,7 +1,7 @@
 ---
 abstract: ""
-#slides: example
-#url_pdf: ""
+slides: example
+url_pdf: ""
 publication_types:
   - "1"
 authors:
@@ -22,8 +22,10 @@ title: A Control Method for Walking Assistance Robot Considering Emotion and
   Body Condition
 doi: ""
 featured: false
-#tags:
-#projects:
+tags:
+  - Bionic Robotics
+projects:
+  - example
 image:
   caption: ""
   focal_point: ""
@@ -32,6 +34,6 @@ image:
 date: 2022-08-29T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
-#url_poster: ""
-#url_code: ""
+url_poster: ""
+url_code: ""
 ---
