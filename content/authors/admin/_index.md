@@ -1,7 +1,7 @@
 ---
 title: Mingyang Xu
 role: ""
-avatar_filename: https://i.ibb.co/gm4bWpW/avatar.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Human-robot Interaction
