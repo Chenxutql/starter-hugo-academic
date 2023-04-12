@@ -2,7 +2,7 @@
 title: Terrain-adaptive Aerial Robot with Legged Landing Gear
 subtitle: ""
 date: 2018-05-20T04:12:23.346Z
-summary: The aerial robot features robotic landing gear, which can be
+summary: A aerial robot features robotic landing gear, which can be
   automatically adjusted to keep the robot horizontal during landing
 draft: false
 featured: false
