@@ -14,7 +14,7 @@ item:
     url: https://system.mech.kyushu-u.ac.jp/jsrmr2022/index.html
   - certificate_url: ""
     date_end: ""
-    date_start: 2019-07-01
+    date_start: 2019-06-30
     description: ""
     organization: Beihang University
     organization_url: 
