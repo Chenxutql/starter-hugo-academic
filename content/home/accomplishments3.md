@@ -8,7 +8,7 @@ item:
     description: ""
     organization: Beijing Municipal Science and Technology Commission
     organization_url: http://bj.chuangqingchun.net/
-    title: Golden Prize, China College Students Entrepreneurship Competition in 2018 (Beijing)
+    title: Golden Prize (top 5%), China College Students Entrepreneurship Competition in 2018 (Beijing)
     url: http://bj.chuangqingchun.net/
   - certificate_url: 
     date_end: ""
