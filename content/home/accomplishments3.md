@@ -22,7 +22,7 @@ item:
 widget_id: RECENT
 headless: true
 weight: 70
-title: Awards
+title: Art Prizes
 subtitle: null
 design:
   columns: "2"
