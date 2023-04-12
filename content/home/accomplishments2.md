@@ -38,7 +38,7 @@ item:
 widget_id: RECENT
 headless: true
 weight: 70
-title: Awards
+title: Scholarships
 subtitle: null
 design:
   columns: "2"
