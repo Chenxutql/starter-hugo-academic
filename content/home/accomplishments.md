@@ -26,7 +26,7 @@ item:
     description: ""
     organization: Beihang University
     organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
-    title: 1th Prize, the 28th "Feng Ru Cup" Competition of Academic and
+    title: 1th Prize (top 3%), the 28th "Feng Ru Cup" Competition of Academic and
       Technological Works
     url: https://www-fengrubei-net.e1.buaa.edu.cn/
   - certificate_url: ""
@@ -35,7 +35,7 @@ item:
     description: ""
     organization: Beijing Municipal Science and Technology Commission
     organization_url: http://bj.chuangqingchun.net/
-    title: Golden Prize, China College Students Entrepreneurship Competition in 2018 (Beijing)
+    title: 1th Prize (top 10%), the 9th “Challenge Cup” Science and Technology Works Competition (Beijing)
     url: http://bj.chuangqingchun.net/
   #- certificate_url: ""
     #date_end: ""
