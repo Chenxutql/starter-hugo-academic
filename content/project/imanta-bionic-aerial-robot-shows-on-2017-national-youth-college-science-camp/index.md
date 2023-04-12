@@ -2,7 +2,7 @@
 title: Ankle-assist Robot with Gait-adaptive Control Method
 subtitle: ""
 date: 2023-03-15T04:16:37.553Z
-summary: The gait-adaptive control method was developed to adapt to the user’s
+summary: A gait-adaptive control method was developed to adapt to the user’s
   changing gait
 draft: false
 featured: false
