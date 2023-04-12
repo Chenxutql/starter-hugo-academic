@@ -14,6 +14,14 @@ item:
     url: https://system.mech.kyushu-u.ac.jp/jsrmr2022/index.html
   - certificate_url: ""
     date_end: ""
+    date_start: 2019-07-01
+    description: ""
+    organization: Beihang University
+    organization_url: 
+    title: Excellent Graduate of Beihang University
+    url: 
+  - certificate_url: ""
+    date_end: ""
     date_start: 2018-05-01
     description: ""
     organization: Beihang University
