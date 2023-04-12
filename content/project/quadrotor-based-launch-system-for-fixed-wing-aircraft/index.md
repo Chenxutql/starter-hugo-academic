@@ -2,7 +2,7 @@
 title: Quadrotor Based Launch System for Fixed-wing Aircraft
 date: 2017-07-06T04:19:41.234Z
 summary: A multicopter-based launch system for fix-wing aircrafts was developed
-  to provide them with a VTOL capability
+  to provide them with a VTOL capability ()
 draft: false
 featured: false
 categories:
