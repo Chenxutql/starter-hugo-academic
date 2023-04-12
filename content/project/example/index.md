@@ -1,8 +1,8 @@
 ---
 url_pdf: ""
 title: "iManta: Manta ray-inspired Aerial Robot"
-summary: A new airship robot that mimics the manta ray’s movement and is
-  suitable for indoor-environment applications
+summary: "**(Video)** A new airship robot that mimics the manta ray’s movement
+  and is suitable for indoor-environment applications"
 url_video: ""
 date: 2023-04-11T11:26:03.274Z
 external_link: ""
