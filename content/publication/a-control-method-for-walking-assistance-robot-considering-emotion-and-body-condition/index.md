@@ -28,8 +28,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-# links:
-- name: Link
+links:
+  name: Link
   url: https://www.nagoya-mipe2022.org/
 date: 2022-08-28T11:55:07.515Z
 ---
