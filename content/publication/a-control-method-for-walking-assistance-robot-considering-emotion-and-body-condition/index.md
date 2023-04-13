@@ -8,7 +8,7 @@ authors:
   - admin
   - Keisuke Osawa
   - Eiichiro Tanaka
-link: https://www.nagoya-mipe2022.org/
+doi: https://www.nagoya-mipe2022.org/
 publication: JSME-IIP/ASME-ISPS Joint International Conference on
   Micromechatronics for Information and Precision Equipment (MIPE 2022) (Oral
   presentation at Nagoya University)
@@ -28,5 +28,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+# links:
+- name: Link
+  url: https://www.nagoya-mipe2022.org/
 date: 2022-08-28T11:55:07.515Z
 ---
