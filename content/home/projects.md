@@ -17,7 +17,7 @@ content:
       tag: Robot Control
     - name: Programming
       tag: Programming
-    - name: Walking Assistive Robotics
+    - name: Human Augmentation
       tag: Exoskeleton
     - name: Bioinspired Robotics
       tag: Bioinspired Robotics
