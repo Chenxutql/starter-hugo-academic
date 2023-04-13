@@ -17,7 +17,7 @@ content:
       tag: Robot Control
     - name: Programming
       tag: Programming
-    - name: Human Augmentation
+    - name: Human Assistance & Augmentation
       tag: Exoskeleton
     - name: Bioinspired Robotics
       tag: Bioinspired Robotics
