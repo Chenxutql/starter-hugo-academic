@@ -8,9 +8,8 @@ interests:
   - Human-robot Interaction
   - Telexistence
   - Mixed Reality
-  - Bioinspired Robotics
-  
-  social:
+  - Bioinspired Robotics  
+social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
