@@ -66,7 +66,9 @@ The desire for **“Flying Through the Sea of Air”** is a vision that has cons
 
 ![](ma7.png "The application as dynamic advertising media")
 
-![](ma8.jpg "The application as comfort pets")
+![](ma8.jpg)
+
+![](ma10.jpg "The application as comfort pets")
 
 ![](ma9.jpg "The application for surveillance and event observation")
 
