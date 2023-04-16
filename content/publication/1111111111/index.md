@@ -24,7 +24,7 @@ abstract: "As the population ages, the number of elderly suffering from systemic
   practicability. In this study, we developed a compact ankle assistive robot
   for elderly users to promote walking exercise. By informing correct motion and
   timing, the robot can guide the user to achieve a healthy gait by only
-  assisting their ankle joint. The robot provides faster\x02than-ankle motion to
+  assisting their ankle joint. The robot provides faster-than-ankle motion to
   allow the user to feel facilitated during the walking. Users can adjust the
   robot’s assistance parameters through a graphical user interface (GUI)
   according to their demands. Furthermore, we proposed a gait-adaptive method
