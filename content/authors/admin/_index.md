@@ -4,12 +4,13 @@ role: ""
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Human-robot Interaction
   - Human Augmentation
-  - Bioinspired Robotics
+  - Human-robot Interaction
+  - Telexistence
   - Mixed Reality
-  - Mechatronics Design
-social:
+  - Bioinspired Robotics
+  
+  social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
