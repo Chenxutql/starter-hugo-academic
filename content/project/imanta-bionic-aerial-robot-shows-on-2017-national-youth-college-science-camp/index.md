@@ -10,6 +10,7 @@ tags:
   - Human-robot Interaction
   - Exoskeleton
   - Robot Control
+  - Programming
 image:
   filename: featured.jpg
   focal_point: Smart
