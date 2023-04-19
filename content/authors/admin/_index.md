@@ -6,9 +6,9 @@ bio: ""
 interests:
   - Human Augmentation
   - Human-robot Interaction
-  - Telexistence
   - Mixed Reality
-  - Bioinspired Robotics  
+  - Wearable Device
+  - Bioinspired Robotics
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,7 +33,7 @@ email: mingyang.xu@ruri.waseda.jp
 superuser: true
 highlight_name: true
 ---
-Mingyang Xu is currently a researcher at Ritsumeikan University, Japan. His research interests include **human-robot interaction**, **human augmentation**, and **bioinspired robotics**. 
+Mingyang Xu is currently a researcher at Ritsumeikan University, Japan. His research interests include **human augmentation**, **human-robot interaction**, and **bioinspired robotics**. 
 
 In 2023, he received his Master’s Degree in Information, Production and Systems Engineering from **Waseda University**, Japan. His Bachelor’s Degree was obtained in Mechanical Engineering with Excellent Graduate Honor in 2019 from **Beihang University**, China.
 
