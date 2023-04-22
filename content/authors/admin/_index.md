@@ -33,6 +33,8 @@ email: mingyang.xu@ruri.waseda.jp
 superuser: true
 highlight_name: true
 ---
-Hello,﻿ my name is Mingyang Xu, a creative researcher in engineering. I received my Master’s Degree in Information, Production and Systems Engineering from **Waseda University**, Japan. My Bachelor’s Degree was obtained in Mechanical Engineering with Excellent Graduate Honor from **Beihang University**, China. My research interests include Human-Robot Interaction, Wearable Technology, and Bioinspired Robotics. 
+Hello,﻿ my name is Mingyang Xu, a creative researcher in engineering. 
+
+I received my Master’s Degree in Information, Production and Systems Engineering from **Waseda University**, Japan. My Bachelor’s Degree was obtained in Mechanical Engineering with Excellent Graduate Honor from **Beihang University**, China. My research interests include Human-Robot Interaction, Wearable Technology, and Bioinspired Robotics. 
 
 {{< icon name="download" pack="fas" >}} For more information, please download the latest {{< staticref "uploads/mingyangxu_cv.pdf" "newtab" >}}CV{{< /staticref >}} here.
