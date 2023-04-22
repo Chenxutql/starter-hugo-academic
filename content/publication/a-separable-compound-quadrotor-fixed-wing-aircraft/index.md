@@ -32,3 +32,4 @@ abstract: With the research on mental health, rehabilitation training and other
   the system's ability to analyze emotions based on EEG more efficient.
 date: 2023-01-20T11:45:11.608Z
 ---
+![](emotion.png "Overview of emotion recognition system")
