@@ -30,4 +30,4 @@ image:
   preview_only: false
 date: 2022-08-28T11:55:07.515Z
 ---
-![](final-thesis图片_12.20_高_27-副本.jpg)
+![](final-thesis图片_12.20_高_27-副本.jpg "(a) Overview of the walking assistive system based on emotion recognition and fatigue detection and (b) Control process of the system")
