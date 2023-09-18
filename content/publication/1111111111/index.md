@@ -14,6 +14,7 @@ authors:
   - Louis Yuge
   - and Eiichiro Tanaka
 author_notes: []
+doi: https://doi.org/10.20965/jrm.2023.p0669
 publication: Journal of Robotics and Mechatronics (JRM)
 publication_short: ""
 abstract: As the population ages, the number of elderly people suffering from
