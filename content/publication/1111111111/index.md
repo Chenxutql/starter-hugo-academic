@@ -14,7 +14,7 @@ authors:
   - Louis Yuge
   - and Eiichiro Tanaka
 author_notes: []
-publication: Journal of Robotics and Mechatronics (JRM) (Accepted)
+publication: Journal of Robotics and Mechatronics (JRM)
 publication_short: ""
 abstract: As the population ages, the number of elderly people suffering from
   systemic diseases such as stroke increases. To address this problem, various
