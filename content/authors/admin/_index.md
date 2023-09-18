@@ -8,7 +8,6 @@ interests:
   - Wearable Technology
   - Human Augmentation
   - Telepresence
-  - Exoskeleton
   - Bioinspired Robotics
 social:
   - icon: envelope
