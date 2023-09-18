@@ -4,7 +4,9 @@ publication_types:
   - "1"
 authors:
   - Dada Hu
-  - LMingyang Xu
+  - Yang Li
+  - admin
+  - Zhiyong Tang
 doi: 10.1088/1742-6596/1061/1/012019
 abstract: Aiming at the severe requirement of landing terrain environment for
   UAVs, especially large UAVs, an adaptive landing gear is designed in this
