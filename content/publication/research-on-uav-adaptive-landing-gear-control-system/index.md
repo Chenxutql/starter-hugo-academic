@@ -8,6 +8,8 @@ authors:
   - admin
   - Zhiyong Tang
 doi: 10.1088/1742-6596/1061/1/012019
+publication: International Conference on Artificial Intelligence, Automation and
+  Control Technologies (AIACT 2018)
 abstract: Aiming at the severe requirement of landing terrain environment for
   UAVs, especially large UAVs, an adaptive landing gear is designed in this
   paper. The control system and PID controller based on attitude feedback,
