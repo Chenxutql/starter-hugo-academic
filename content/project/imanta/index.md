@@ -59,15 +59,3 @@ The desire for **“Flying Through the Sea of Air”** is a vision that has cons
 * Interactable and dynamic advertising media
 * Robot therapy (as comfort pets)
 * Long-time surveillance and event observation
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
