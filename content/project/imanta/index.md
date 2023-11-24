@@ -21,7 +21,7 @@ url_code: ""
 ---
 **Members:** Mingyang Xu, Yunkai Qi, Xiaoyue Zhang, Ning Liu, Jiaxuan Zhang, and Mengjie Xiao
 
-![](group.jpg)
+![]()
 
 ![](ma0.jpg)
 
